@@ -14,7 +14,7 @@ You can see my projects [here]()
 
 ### Tools
 - Languages: SQL
-- Databases: Microsoft SQL
+- Databases: Microsoft SQL Server Management Studio (SSMS)
 - Visualization: Tableau, Power BI, Excel
 
 
